@@ -12,7 +12,7 @@
 // @downloadURL  https://github.com/deepratnaawale/Yodayo-Chat-Customizer/raw/main/YCC.user.js
 // @supportURL   https://github.com/deepratnaawale/Yodayo-Chat-Customizer/issues
 
-// @match        https://yodayo.com/tavern/chat/*
+// @match        https://yodayo.com/*
 // @run-at       document-end
 // @grant        GM_getResourceURL
 // @grant        GM_xmlhttpRequest
