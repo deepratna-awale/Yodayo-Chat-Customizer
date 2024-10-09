@@ -1,18 +1,18 @@
 // ==UserScript==
-// @name         Yodayo Chat Customizer
-// @version      Alpha-v8
+// @name         Moescape Customizer
+// @version      Alpha-v9
 
 // @namespace    YCC
 
 // @description  Fully Customize Yodayo Chats
-// @author       Pervertir
+// @author       Deepratna Awale
 
 // @homepageURL  https://github.com/deepratnaawale/Yodayo-Chat-Customizer/tree/main
 // @updateURL    https://github.com/deepratnaawale/Yodayo-Chat-Customizer/raw/main/YCC.user.js
 // @downloadURL  https://github.com/deepratnaawale/Yodayo-Chat-Customizer/raw/main/YCC.user.js
 // @supportURL   https://github.com/deepratnaawale/Yodayo-Chat-Customizer/issues
 
-// @match        https://yodayo.com/*
+// @match        https://moescape.ai/*
 // @run-at       document-end
 // @grant        GM_getResourceURL
 // @grant        GM_xmlhttpRequest
@@ -31,7 +31,7 @@
 // @require      file://D:\Workspace\Yodayo-Chat-Customizer\JS\image_viewer_popup.js
 // @require      file://D:\Workspace\Yodayo-Chat-Customizer\JS\yodayo_chat_customizer.js
 
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=yodayo.com
+// @icon         https://moescape.ai/assets/images/logo.svg
 
 // @connect      *
 // ==/UserScript==
