@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Moescape Customizer
-// @version      Alpha-v9
+// @version      Alpha-v10
 
-// @namespace    YCC
+// @namespace    MOESCAPE
 
-// @description  Fully Customize Yodayo Chats
+// @description  Fully Customize Moescape Chats
 // @author       Deepratna Awale
 
 // @homepageURL  https://github.com/deepratnaawale/Yodayo-Chat-Customizer/tree/main
