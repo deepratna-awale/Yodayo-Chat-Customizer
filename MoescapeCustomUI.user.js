@@ -8,8 +8,8 @@
 // @author       Deepratna Awale
 
 // @homepageURL  https://github.com/deepratnaawale/Yodayo-Chat-Customizer/tree/main
-// @updateURL    https://github.com/deepratnaawale/Yodayo-Chat-Customizer/raw/main/YCC.user.js
-// @downloadURL  https://github.com/deepratnaawale/Yodayo-Chat-Customizer/raw/main/YCC.user.js
+// @updateURL    https://github.com/deepratnaawale/Yodayo-Chat-Customizer/raw/main/MoescapeCustomUI.user.js
+// @downloadURL  https://github.com/deepratnaawale/Yodayo-Chat-Customizer/raw/main/MoescapeCustomUI.user.js
 // @supportURL   https://github.com/deepratnaawale/Yodayo-Chat-Customizer/issues
 
 // @match        https://moescape.ai/*
