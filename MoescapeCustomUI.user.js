@@ -4,7 +4,7 @@
 
 // @namespace    MOESCAPE
 
-// @description  Fully Customize Moescape Chats
+// @description  Fully Customize Yodayo/ Moescape Chats
 // @author       Deepratna Awale
 
 // @homepageURL  https://github.com/deepratna-awale/Yodayo-Chat-Customizer
